@@ -142,7 +142,7 @@ If you want the menu item to have a dropdown, you can also add a `category` key 
           "menuLink": "The associated link to this label"
         }
       ]
-    }
+     }
   ]
 }
 ```
